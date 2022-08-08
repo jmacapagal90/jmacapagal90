@@ -1,5 +1,6 @@
 # Projects Repos:
 
+## [Game Squad](https://github.com/batmanonwheels/game_squad_frontend)
 ## [Beer Buddy](https://github.com/jmacapagal90/p2-project-beer-buddy)
 ## [Zoo Guide](https://github.com/jmacapagal90/p3-sinatra-react-project-front-end)
 ## [Game Squad](https://github.com/batmanonwheels/game_squad_frontend)
