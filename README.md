@@ -12,6 +12,7 @@
 - 📫 Reach me via email: j.macapagal90@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jamesmacapagal/
 - My DEV Blog: https://dev.to/jmacapagal90
+- Portfolio: https://www.jamesmacapagal.com/
 
 <!---
 jmacapagal90/jmacapagal90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
