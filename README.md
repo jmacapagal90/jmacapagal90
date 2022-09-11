@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jmacapagal90
-- 👀 I’m interested in creating things
-- 🌱 I’m currently learning software engineering at Flatiron
-- 💞️ I’m looking to collaborate on websites, applications, and more
-- 📫 Reach me via email: j.macapagal90@gmail.com
+- Email: j.macapagal90@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jamesmacapagal/
 - My DEV Blog: https://dev.to/jmacapagal90
 - Portfolio: https://www.jamesmacapagal.com/
