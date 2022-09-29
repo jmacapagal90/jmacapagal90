@@ -18,7 +18,9 @@ Flatiron group project part of Rails unit. SPA using React and Rails detailing g
 ## [Beer Buddy](https://github.com/jmacapagal90/p2-project-beer-buddy)
 Flatiron Group Project as part of React unit. SPA that allows users to view, order, and checkout beers at a hypothetical bar. 
 ## [Zoo Guide](https://github.com/jmacapagal90/p3-sinatra-react-project-front-end)
-Flatiron Group Project as part of vanilla Ruby unit. SPA using React and vanilla Ruby (with Sinatra) that allows users to browse animals in their habitats at a hypothetical zoo. 
+Flatiron Group Project as part of vanilla Ruby unit. SPA using React and vanilla Ruby/Sinatra that allows users to browse animals in their habitats at a hypothetical zoo. 
+
+
 ---
 ## Contact Me
 
@@ -26,8 +28,6 @@ Flatiron Group Project as part of vanilla Ruby unit. SPA using React and vanilla
 - LinkedIn: https://www.linkedin.com/in/jamesmacapagal/
 - My DEV Blog: https://dev.to/jmacapagal90
 - Portfolio: https://www.jamesmacapagal.com/
-
-
 
 
 <!---
