@@ -1,4 +1,5 @@
 # James Macapagal
+<img style="width: 25%; height: 25%;" src="https://i.imgur.com/T3vXh7N.jpg"></img>
 
 ## About Me
 I'm a former Business Analyst turned Software Engineer, skilled in React, Ruby on Rails, and SQL, with 5+ years working within Agile product teams. A recent grad of the Flatiron School Bootcamp, I learned vanilla JS (ES6), React, Ruby, and Ruby on Rails all within 15 weeks, with each unit culminating in a technicall assessment and group project.  I know I can learn quickly and make an impact if given the opportunity. 
@@ -26,7 +27,6 @@ Flatiron Group Project as part of vanilla Ruby unit. SPA using React and vanilla
 - My DEV Blog: https://dev.to/jmacapagal90
 - Portfolio: https://www.jamesmacapagal.com/
 
-<img style="width: 25%; height: 25%;" src="https://i.imgur.com/T3vXh7N.jpg"></img>
 
 
 
