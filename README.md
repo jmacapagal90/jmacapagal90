@@ -23,6 +23,8 @@ Flatiron Group Project as part of vanilla Ruby unit. SPA using React and vanilla
 
 ---
 ## Contact Me
+Please reach out, and connect with me!
+
 
 - Email: j.macapagal90@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jamesmacapagal/
