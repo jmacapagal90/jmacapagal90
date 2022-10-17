@@ -11,7 +11,7 @@ I'm open to collaborating on projects, and I hope to enhance any team with both 
 
 ---
 # Projects Repos:
-## [The Basement Game](https://github.com/batmanonwheels/the-basement-game)
+## [The Basement Game](https://github.com/jmacapagal90/the-basement-game)
 A choose-your-own-adventure style, text game (SPA) built with React and Rails where players (attempt) to escape a nefarious basement. Capstone project for Flatiron School Bootcamp.
 ## [Game Squad](https://github.com/batmanonwheels/game_squad_frontend)
 Flatiron group project part of Rails unit. SPA using React and Rails detailing games, reviews, and where users can leave and browse reviewed games. 
